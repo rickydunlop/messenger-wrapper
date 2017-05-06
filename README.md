@@ -1,4 +1,6 @@
 # messenger-wrapper
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/rickydunlop/messenger-wrapper.svg)](https://greenkeeper.io/)
 [![Build Status](https://travis-ci.org/justynjozwiak/messenger-wrapper.svg?branch=master)](https://travis-ci.org/justynjozwiak/messenger-wrapper)
 [![CoverageStatus](https://coveralls.io/repos/github/justynjozwiak/messenger-wrapper/badge.svg?branch=master)](https://coveralls.io/github/justynjozwiak/messenger-wrapper?branch=master)
 [![npm version](https://img.shields.io/npm/v/messenger-wrapper.svg?style=flat)](https://www.npmjs.com/package/messenger-wrapper)
